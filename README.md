@@ -2,8 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that lets users upload any PDF document and ask natural-language questions against it, powered by IBM watsonx.ai and LangChain.
 
-**Main Screen:**
-![RAG Chatbot UI](image.png)
+**Demo Walkthrough:**
+<video controls src="AI-RAG-Chatbot-Demo.webm" title="Title"></video>
 
 ---
 
