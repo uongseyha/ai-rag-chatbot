@@ -4,7 +4,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that lets users upload any PDF do
 
 ## Demo Walkthrough
 
-<video controls src="https://github.com/user-attachments/assets/8e9511d4-946e-462b-8860-ce806ae8d39f title="AI RAG Chatbot Demo"></video>
+<video controls src="https://github.com/user-attachments/assets/8e9511d4-946e-462b-8860-ce806ae8d39f" title="AI RAG Chatbot Demo"></video>
 
 ---
 
